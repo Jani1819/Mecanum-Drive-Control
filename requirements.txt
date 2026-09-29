@@ -1,0 +1,2 @@
+# Python dependency used by the supplied joystick teleoperation program
+pygame
